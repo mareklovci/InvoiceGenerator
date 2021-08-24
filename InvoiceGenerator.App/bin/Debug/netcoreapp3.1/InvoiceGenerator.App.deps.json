@@ -1,0 +1,41 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "InvoiceGenerator.App/1.0.0": {
+        "dependencies": {
+          "Apitron.PDF.Kit": "2.0.45"
+        },
+        "runtime": {
+          "InvoiceGenerator.App.dll": {}
+        }
+      },
+      "Apitron.PDF.Kit/2.0.45": {
+        "runtime": {
+          "lib/netstandard2.1/Apitron.PDF.Kit.dll": {
+            "assemblyVersion": "2.0.45.0",
+            "fileVersion": "2.0.45.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "InvoiceGenerator.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Apitron.PDF.Kit/2.0.45": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-/8wMpWmv9CILEQUWzrtpFFXTYj2Yi6e/7kP0rRtkweNTm1ScAZNrrVJKFoVhTmiDwXk80U4/MIdTuozxwNfN7w==",
+      "path": "apitron.pdf.kit/2.0.45",
+      "hashPath": "apitron.pdf.kit.2.0.45.nupkg.sha512"
+    }
+  }
+}

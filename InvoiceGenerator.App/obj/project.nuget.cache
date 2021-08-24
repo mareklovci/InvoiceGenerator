@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sqZc08LkU08o3Y4fqpqNX9QaoCeNo/80hf5Cf4fw0SEHsZ6H2OiW9jJhegxK0Pony5J0AndcZ5I6seiPXqC+sQ==",
+  "success": true,
+  "projectFilePath": "C:\\gitrepos\\InvoiceGenerator\\InvoiceGenerator.App\\InvoiceGenerator.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\k1013597\\.nuget\\packages\\apitron.pdf.kit\\2.0.45\\apitron.pdf.kit.2.0.45.nupkg.sha512"
+  ],
+  "logs": []
+}

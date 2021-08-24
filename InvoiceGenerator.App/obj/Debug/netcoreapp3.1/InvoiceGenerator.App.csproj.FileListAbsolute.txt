@@ -1,0 +1,16 @@
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.csproj.AssemblyReference.cache
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.AssemblyInfoInputs.cache
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.AssemblyInfo.cs
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.csproj.CoreCompileInputs.cache
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.exe
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.deps.json
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.runtimeconfig.json
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.runtimeconfig.dev.json
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.dll
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\InvoiceGenerator.App.pdb
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\bin\Debug\netcoreapp3.1\Apitron.PDF.Kit.dll
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.csproj.CopyComplete
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.dll
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.pdb
+C:\gitrepos\InvoiceGenerator\InvoiceGenerator.App\obj\Debug\netcoreapp3.1\InvoiceGenerator.App.genruntimeconfig.cache

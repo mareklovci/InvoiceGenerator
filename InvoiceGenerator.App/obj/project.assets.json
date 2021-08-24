@@ -1,0 +1,139 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Apitron.PDF.Kit/2.0.45": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.1/Apitron.PDF.Kit.dll": {}
+        },
+        "runtime": {
+          "lib/netstandard2.1/Apitron.PDF.Kit.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Apitron.PDF.Kit/2.0.45": {
+      "sha512": "/8wMpWmv9CILEQUWzrtpFFXTYj2Yi6e/7kP0rRtkweNTm1ScAZNrrVJKFoVhTmiDwXk80U4/MIdTuozxwNfN7w==",
+      "type": "package",
+      "path": "apitron.pdf.kit/2.0.45",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "apitron.pdf.kit.2.0.45.nupkg.sha512",
+        "apitron.pdf.kit.nuspec",
+        "lib/MonoAndroid/Apitron.PDF.Kit.dll",
+        "lib/MonoAndroid/Apitron.PDF.Kit.xml",
+        "lib/MonoMac/Apitron.PDF.Kit.dll",
+        "lib/MonoMac/Apitron.PDF.Kit.xml",
+        "lib/MonoTouch/Apitron.PDF.Kit.dll",
+        "lib/MonoTouch/Apitron.PDF.Kit.xml",
+        "lib/Xamarin.Mac/Apitron.PDF.Kit.dll",
+        "lib/Xamarin.Mac/Apitron.PDF.Kit.xml",
+        "lib/Xamarin.iOS10/Apitron.PDF.Kit.dll",
+        "lib/Xamarin.iOS10/Apitron.PDF.Kit.xml",
+        "lib/dnxcore50/Apitron.PDF.Kit.dll",
+        "lib/dnxcore50/Apitron.PDF.Kit.xml",
+        "lib/dotnet5.4/Apitron.PDF.Kit.dll",
+        "lib/dotnet5.4/Apitron.PDF.Kit.xml",
+        "lib/net35/Apitron.PDF.Kit.dll",
+        "lib/net35/Apitron.PDF.Kit.xml",
+        "lib/net40/Apitron.PDF.Kit.dll",
+        "lib/net40/Apitron.PDF.Kit.xml",
+        "lib/net45/Apitron.PDF.Kit.dll",
+        "lib/net45/Apitron.PDF.Kit.xml",
+        "lib/net451/Apitron.PDF.Kit.dll",
+        "lib/net451/Apitron.PDF.Kit.xml",
+        "lib/net452/Apitron.PDF.Kit.dll",
+        "lib/net452/Apitron.PDF.Kit.xml",
+        "lib/net46/Apitron.PDF.Kit.dll",
+        "lib/net46/Apitron.PDF.Kit.xml",
+        "lib/net461/Apitron.PDF.Kit.dll",
+        "lib/net461/Apitron.PDF.Kit.xml",
+        "lib/net462/Apitron.PDF.Kit.dll",
+        "lib/net462/Apitron.PDF.Kit.xml",
+        "lib/net47/Apitron.PDF.Kit.dll",
+        "lib/net47/Apitron.PDF.Kit.xml",
+        "lib/net471/Apitron.PDF.Kit.dll",
+        "lib/net471/Apitron.PDF.Kit.xml",
+        "lib/net472/Apitron.PDF.Kit.dll",
+        "lib/net472/Apitron.PDF.Kit.xml",
+        "lib/netstandard2.1/Apitron.PDF.Kit.dll",
+        "lib/netstandard2.1/Apitron.PDF.Kit.xml",
+        "lib/xamarinios/Apitron.PDF.Kit.dll",
+        "lib/xamarinios/Apitron.PDF.Kit.xml",
+        "lib/xamarinmac/Apitron.PDF.Kit.dll",
+        "lib/xamarinmac/Apitron.PDF.Kit.xml"
+      ]
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "Apitron.PDF.Kit >= 2.0.45"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\k1013597\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\gitrepos\\InvoiceGenerator\\InvoiceGenerator.App\\InvoiceGenerator.App.csproj",
+      "projectName": "InvoiceGenerator.App",
+      "projectPath": "C:\\gitrepos\\InvoiceGenerator\\InvoiceGenerator.App\\InvoiceGenerator.App.csproj",
+      "packagesPath": "C:\\Users\\k1013597\\.nuget\\packages\\",
+      "outputPath": "C:\\gitrepos\\InvoiceGenerator\\InvoiceGenerator.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\k1013597\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "targetAlias": "netcoreapp3.1",
+        "dependencies": {
+          "Apitron.PDF.Kit": {
+            "target": "Package",
+            "version": "[2.0.45, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
